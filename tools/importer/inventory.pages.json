@@ -1,0 +1,464 @@
+{
+  "templates": [
+    {
+      "name": "E-commerce Product Showcase",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.apple.com/store",
+          "uuid": "a522b68aa2c063daa9496ab116204e6915aa2962"
+        },
+        {
+          "url": "https://www.apple.com/mac/",
+          "uuid": "aeaa08f75be1324f185996cb6d304ede0de25809"
+        },
+        {
+          "url": "https://www.apple.com/today/",
+          "uuid": "8029c8005abb9a61f38298dc128ce32561170d7a"
+        },
+        {
+          "url": "https://www.apple.com/ipad/",
+          "uuid": "ec28ae054076dfa17807d8f1f0b89c5694164e1d"
+        },
+        {
+          "url": "https://www.apple.com/supply-chain/",
+          "uuid": "ca2d14830e23c534784bf89c743d2104a7147ab7"
+        },
+        {
+          "url": "https://www.apple.com/apple-vision-pro/",
+          "uuid": "5fe303e705308bd8cef62dfd3f2d3d6034f33649"
+        },
+        {
+          "url": "https://www.apple.com/apple-fitness-plus/",
+          "uuid": "f82d6c8f3b0476b2fbd83781134119c84ccc6dfb"
+        },
+        {
+          "url": "https://www.apple.com/compliance/",
+          "uuid": "179c6d5b19579f759dce0b62ff7307d6fbdd18c8"
+        },
+        {
+          "url": "https://www.apple.com/sitemap/",
+          "uuid": "26d9602141dd4e434055429c0d5081012f696c4a"
+        },
+        {
+          "url": "https://www.apple.com/retail/",
+          "uuid": "37eb45cf3bfda14894a55381fdc12129feab620d"
+        },
+        {
+          "url": "https://www.apple.com/app-store/",
+          "uuid": "c21701f5605990e60f6e93dad8b6588e30bf60a2"
+        },
+        {
+          "url": "https://www.apple.com/privacy/",
+          "uuid": "769de047cc6ec05cedd9885a44b00e8b64f16d7b"
+        },
+        {
+          "url": "https://www.apple.com/iphone/",
+          "uuid": "8f54c3b1412e5532558b6b5cc8e1d7ffb73567b5"
+        },
+        {
+          "url": "https://www.apple.com/government/",
+          "uuid": "bd3418e2885a86e09b0f8029660c6ad52c5d553e"
+        },
+        {
+          "url": "https://www.apple.com/healthcare/",
+          "uuid": "71d624ef3a7539760d79fc9aeaaececf9400dd5c"
+        },
+        {
+          "url": "https://www.apple.com/accessibility/",
+          "uuid": "e3423874430af32f0556aa3382313c305c4a1447"
+        },
+        {
+          "url": "https://www.apple.com/legal/",
+          "uuid": "3a503e333f67b7887ff9e8cc2f69edd25823ec0e"
+        },
+        {
+          "url": "https://www.apple.com/education-initiative/",
+          "uuid": "d5729fca56fad20f18af0ea70013d51fc3e7b7c9"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/",
+          "uuid": "d6f05be19c5110b60e6fbc77eb1c8e384775274e"
+        },
+        {
+          "url": "https://www.apple.com/racial-equity-justice-initiative/",
+          "uuid": "5c3c9f080563aef7cfcc849aaa890270f7af8d1c"
+        },
+        {
+          "url": "https://www.apple.com/leadership/",
+          "uuid": "381b751b16fe05fa7687e76027870d7584fce817"
+        },
+        {
+          "url": "https://www.apple.com/apple-tv-plus/",
+          "uuid": "9b509904a2d9ab75fa38f9c667ff164f25c78584"
+        },
+        {
+          "url": "https://www.apple.com/environment/",
+          "uuid": "0eaaedb4e134b47371695ed94fcccc0d695c0b5f"
+        },
+        {
+          "url": "https://www.apple.com/apple-news/",
+          "uuid": "1bd1397e5ee230d393f00dba94ff8efef34b0fb5"
+        },
+        {
+          "url": "https://www.apple.com/apple-pay/",
+          "uuid": "7ff6c666b6b694a9cc299ae21a761afd777d6804"
+        },
+        {
+          "url": "https://www.apple.com/apple-music/",
+          "uuid": "cb6855cdc4aec8b2c8a8d117a9f483afc8033e65"
+        },
+        {
+          "url": "https://www.apple.com/apple-cash/",
+          "uuid": "19db2aa024a7a0bc8a4c157cea7a45ad8456c0f5"
+        },
+        {
+          "url": "https://www.apple.com/apple-one/",
+          "uuid": "affdb5cff6bc71e8414c8d643dbb10c2063f0aa7"
+        },
+        {
+          "url": "https://www.apple.com/apple-arcade/",
+          "uuid": "bd611ae4cda56a97211ab265f35bb5c7cdc87e57"
+        },
+        {
+          "url": "https://www.apple.com/apple-podcasts/",
+          "uuid": "5f4154cc640b1746edf201a7ff5c04c831ab02e9"
+        },
+        {
+          "url": "https://www.apple.com/apple-card/",
+          "uuid": "eb54f48d8bd9556a9a464a44d3ee28053f877660"
+        },
+        {
+          "url": "https://www.apple.com/airtag/",
+          "uuid": "ab2001c13b33615f9fe0f5819f08a9ace96c3307"
+        },
+        {
+          "url": "https://www.apple.com/diversity/",
+          "uuid": "68f2ef7443704184c3038d95ea01117fada8111f"
+        },
+        {
+          "url": "https://www.apple.com/apple-books/",
+          "uuid": "0ee83d18567b2f82a8d792dd62f81e13775aff85"
+        },
+        {
+          "url": "https://www.apple.com/airpods/",
+          "uuid": "18f3376d66fbecd7bb5b41a3a1812a813544bd96"
+        },
+        {
+          "url": "https://www.apple.com/apple-events/",
+          "uuid": "d1aa6dd145bdc01fde130a28aa79bd2c123bf1bb"
+        },
+        {
+          "url": "https://www.apple.com/bh/",
+          "uuid": "2a9c17f249235864f3c2fcaf7000b46cf4c3327e"
+        },
+        {
+          "url": "https://www.apple.com/bh-ar/",
+          "uuid": "f32aff5bc96b269d8cbf00c0ec3946b203fadb60"
+        },
+        {
+          "url": "https://www.apple.com/eg/",
+          "uuid": "e0396efe1e3a2bcfb8107f8762e967e5e91967f9"
+        },
+        {
+          "url": "https://www.apple.com/eg-ar/",
+          "uuid": "fb472b23e62a67deb54d55a9199c6a1312614085"
+        },
+        {
+          "url": "https://www.apple.com/jo/",
+          "uuid": "2c5c88057d6b30517005fd64a0c203355f23f8fa"
+        },
+        {
+          "url": "https://www.apple.com/jo-ar/",
+          "uuid": "015443aaaa907eb93de7a1027bb06c4f355577ef"
+        },
+        {
+          "url": "https://www.apple.com/choose-country-region/",
+          "uuid": "30ce0b01dc41d1fdb2273f3099a01aa8dc089dae"
+        },
+        {
+          "url": "https://www.apple.com/am/",
+          "uuid": "247599e8a267c2328a1aacf2fa130264d0dcb751"
+        },
+        {
+          "url": "https://www.apple.com/education/",
+          "uuid": "dd2323325c16c5e4fdcf6103b9dbad1170fd0074"
+        },
+        {
+          "url": "https://www.apple.com/az/",
+          "uuid": "d2f5ba6f1b44d72a40a4ecc988477e1e018cc2d8"
+        },
+        {
+          "url": "https://www.apple.com/ge/",
+          "uuid": "1153e19d1b859362d96704ef0bf7134ddb0ccc83"
+        },
+        {
+          "url": "https://www.apple.com/kg/",
+          "uuid": "662e361d52e0b688a7c84ec5fecaafe1f61e9701"
+        },
+        {
+          "url": "https://www.apple.com/hr/",
+          "uuid": "2b84add991ce62a9a9f8e3068bb640b6c2117521"
+        },
+        {
+          "url": "https://www.apple.com/id/",
+          "uuid": "8f1f614673d7d47f9f2d3eeea30e6fc21a2a4726"
+        },
+        {
+          "url": "https://www.apple.com/co/",
+          "uuid": "ea5578fde7a45d4bd18dd11af115165ca1a31f93"
+        },
+        {
+          "url": "https://www.apple.com/bw/",
+          "uuid": "7eeb17487980b733e36b268ac395a2b923c5407c"
+        },
+        {
+          "url": "https://www.apple.com/ci/",
+          "uuid": "cf37249d255d1cfd3dd1d3e8d399af0c087b7b66"
+        },
+        {
+          "url": "https://www.apple.com/cm/",
+          "uuid": "3737679c94feadc8de4a16a9c5af745d8072171c"
+        },
+        {
+          "url": "https://www.apple.com/gw/",
+          "uuid": "d439e1c16cc5579aaaa4fb92cb6401390c1fd7d8"
+        },
+        {
+          "url": "https://www.apple.com/ke/",
+          "uuid": "78ffcbef417a0c987963a1ac3cf26aa9656cb9ee"
+        },
+        {
+          "url": "https://www.apple.com/gn/",
+          "uuid": "0f666fab6602299630be42e471c161bc1e0da87c"
+        },
+        {
+          "url": "https://www.apple.com/cf/",
+          "uuid": "0451685b92b88b77dc6004af412bafe2ae735f31"
+        },
+        {
+          "url": "https://www.apple.com/gq/",
+          "uuid": "67956069d205d051c4aed607af115dd557edb8da"
+        },
+        {
+          "url": "https://www.apple.com/bg/",
+          "uuid": "d06f78b55a443110cc4b49a7663502e8df08dcf2"
+        },
+        {
+          "url": "https://www.apple.com/ee/",
+          "uuid": "c8676127f8f6e37e74af2ff7320d0b77d053fc7a"
+        },
+        {
+          "url": "https://www.apple.com/gr/",
+          "uuid": "01f112ae743d41aafa99ebf1ea4016112639e441"
+        },
+        {
+          "url": "https://www.apple.com/il/",
+          "uuid": "808e55858c427bbaf48958e768c17327ea375df8"
+        },
+        {
+          "url": "https://www.apple.com/business/",
+          "uuid": "d1c4c730bd132faf0326bf272e38afb6c622ff06"
+        },
+        {
+          "url": "https://www.apple.com/ae-ar/",
+          "uuid": "58ea820d05383604e9437f7a531ae70ecd2ddb48"
+        },
+        {
+          "url": "https://www.apple.com/fi/",
+          "uuid": "0319990cc24065f6d59b662c76849e83b1ed32e0"
+        },
+        {
+          "url": "https://www.apple.com/befr/",
+          "uuid": "20ffc6e85f97f1505c3fe066b28a728cf5c672ae"
+        },
+        {
+          "url": "https://www.apple.com/benl/",
+          "uuid": "1c60d7a23f5e9f16bb3234640242f459263964d1"
+        },
+        {
+          "url": "https://www.apple.com/dk/",
+          "uuid": "53d535256cf005560017b04d47478b3417cb0033"
+        },
+        {
+          "url": "https://www.apple.com/fr/",
+          "uuid": "d0ca8ab5e99f396970ec6aebcdd761ca042988fc"
+        },
+        {
+          "url": "https://www.apple.com/de/",
+          "uuid": "03413e8fb17dec2e6240109c3b6ed27c8d80d247"
+        },
+        {
+          "url": "https://www.apple.com/es/",
+          "uuid": "2b8421846f45dc51b522bb3a7f8654036acc4a64"
+        },
+        {
+          "url": "https://www.apple.com/ie/",
+          "uuid": "53252efab6158dfa575746fe2c3d6c2ee6a8db2d"
+        },
+        {
+          "url": "https://www.apple.com/it/",
+          "uuid": "ef2c5729cc749bfccf1c52a8b868db7e1af101d6"
+        },
+        {
+          "url": "https://www.apple.com/at/",
+          "uuid": "f89501a7201e56c58cfe204bea32b422aeba7a1c"
+        },
+        {
+          "url": "https://www.apple.com/chfr/",
+          "uuid": "e91613b80127b8f925f4b90f415d266179223572"
+        },
+        {
+          "url": "https://www.apple.com/chde/",
+          "uuid": "6c6b3ffb13898ea9fcaab5c4e85ea3d46d109334"
+        },
+        {
+          "url": "https://www.apple.com/au/",
+          "uuid": "e0fe0456b59104bb102251c819302fea66cf61e4"
+        },
+        {
+          "url": "https://www.apple.com/cl/",
+          "uuid": "02de62de75974596f2ae522f1050722ffde70a67"
+        },
+        {
+          "url": "https://www.apple.com/br/",
+          "uuid": "e5776624514ef1cab9af59ffa200bcb63c4eca7f"
+        },
+        {
+          "url": "https://www.apple.com/contact/",
+          "uuid": "fa9631a04149037e055adb1e8bf93f05ce07949c"
+        },
+        {
+          "url": "https://www.apple.com/cz/",
+          "uuid": "7b1a6c613fa5b3289bec8b0ba61991015daec2c2"
+        },
+        {
+          "url": "https://www.apple.com/hu/",
+          "uuid": "03e8d48c148745c7c250146cef1bbe1780845e67"
+        },
+        {
+          "url": "https://www.apple.com/jp/",
+          "uuid": "816cfcc52475d47b731e53385fadc354054562d6"
+        },
+        {
+          "url": "https://www.apple.com/ca/",
+          "uuid": "3852143b44ffe497600e087665aa2858eea141a4"
+        },
+        {
+          "url": "https://www.apple.com/ae/",
+          "uuid": "10387e8acae68a92222f4bf79c12ff4f1b89fa8c"
+        },
+        {
+          "url": "https://www.apple.com/hk/",
+          "uuid": "8b0e9282677a2cecef6eb8d968d207b05510c96d"
+        },
+        {
+          "url": "https://www.apple.com/in/",
+          "uuid": "90522d41347fb3c5c3d89814dd2800789de90fc3"
+        }
+      ]
+    },
+    {
+      "name": "Minimalist Multi-Purpose Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.apple.com/legal/privacy/",
+          "uuid": "44945b71c2eaf56bf36a5e5d6fbcae2af0a657d1"
+        },
+        {
+          "url": "https://www.apple.com/legal/internet-services/terms/site.html",
+          "uuid": "356733ca60f24656ed7cdfbcc573bdcead95e4f3"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Overview'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.apple.com/retail/geniusbar/",
+          "uuid": "c7242b2d8c8ab4b5d915e8f4bfd24defa3bd05d9"
+        },
+        {
+          "url": "https://www.apple.com/retail/business/",
+          "uuid": "adad35346d3c7ea7da9bff245fb6e911bd1ca8ed"
+        }
+      ]
+    },
+    {
+      "name": "Product Showcase Page",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.apple.com/hk/en/",
+          "uuid": "19493591a20063cd8e9214933bb2af95b1f5f818"
+        },
+        {
+          "url": "https://www.apple.com/ca/fr/",
+          "uuid": "3b0613566701359bb9f2342d6c78b1c069a72216"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.apple.com/legal/sales-support/sales-policies/retail_us.html",
+          "uuid": "45b99254ec8028e784aea6a2f65328dc4506cfe7"
+        }
+      ]
+    },
+    {
+      "name": "'E-commerce Product Showcase'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.apple.com/",
+          "uuid": "71fea9500cf2e70b620ea7d8a7ae25456270d0d3"
+        }
+      ]
+    },
+    {
+      "name": "Unfortunately, I cannot analyze or interpret the content of",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.apple.com/education/k12/",
+          "uuid": "6cb5cd1ec19303f370cc9486030019ef861cd8e1"
+        }
+      ]
+    },
+    {
+      "name": "'Blog Listing Page'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.apple.com/today/calendar/unionsquare/",
+          "uuid": "73658ccdaf6f15dc8df93dc6ac654cc50ed35107"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.apple.com/today/camp/",
+          "uuid": "5b9eddc168bc921249dcd04b1efd7cf6326c7413"
+        }
+      ]
+    },
+    {
+      "name": "'Hero Section Template'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.apple.com/careers/us/",
+          "uuid": "02cbd1e7d7eb4134acbfc65195e9b1c602cee87a"
+        }
+      ]
+    }
+  ]
+}
